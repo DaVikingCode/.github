@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to our Github organization page where we share our past and present open source or publicly licensed code, from research to production ready libraries and packages.
+Welcome to our GitHub organization page where we share our past and present open source or publicly licensed code, from research to production ready libraries and packages.
 
 Once we worked on a game engine made with Adobe Flash / ActionScript 3, the [Citrus Engine](https://github.com/DaVikingCode/Citrus-Engine). It comes built-in with a "platformer" starter-kit, that was our beginning. We contributed a lot to the Flash community, even making open source ANEs (Adobe AIR Native Extensions enabling to call native code, Objective-C and Java, from AS3). While Flash was dying we moved to other technologies:
 - [Unity](https://unity.com/), somehow the new Flash, that was also the opportunity to go deep with 3D.
